@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hey, I'm Mostafa Hatem
 
-<!--
-**MostafaHatemGhonem/MostafaHatemGhonem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Developer** | 🎓 Space Technology Student | 🇪🇬 Egypt  
+Building interactive, responsive, and beautiful web experiences with clean, modern code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+**Frontend:** HTML, CSS, Bootstrap, JavaScript, TypeScript, React  
+**Backend:** Python Flask  
+**Languages:** Python, Java, C++, C#  
+**Concepts:** OOP, Problem Solving  
+**Tools:** Git, GitHub  
+
+---
+
+### 💡 Featured Projects
+
+#### 🌎 [Impact-X](https://github.com/MostafaHatemGhonem/Impact-X)
+An interactive web app simulating asteroid impacts using NASA data.  
+🛰 Selected as a **Global Nominee** in the NASA Space Apps Challenge.
+
+#### 🧩 [Browser Extensions Manager](https://github.com/MostafaHatemGhonem/browser-extensionsmanager)
+Frontend Mentor Challenge — Manage browser extensions easily.  
+🔗 [Live Demo](https://MostafaHatemGhonem.github.io/browser-extensionsmanager)
+
+#### 💳 [Digital Bank Landing Page](https://github.com/MostafaHatemGhonem/landing-page)
+Responsive landing page built with modern design principles.  
+🔗 [Live Demo](https://MostafaHatemGhonem.github.io/landing-page)
+
+---
+
+### 🧠 About Me
+I’m passionate about **merging technology and creativity** —  
+whether I’m building smooth user interfaces or studying **space systems** 🚀  
+I love solving problems and learning something new every day.
+
+---
+
+### 📬 Connect With Me
+📧 **mostafahatemghonem@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-hatem-7b87b432a)  
+💻 [Upwork Profile](#)  
+🌍 [Portfolio Website (coming soon)](#)
