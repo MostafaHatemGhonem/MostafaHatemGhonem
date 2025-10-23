@@ -46,7 +46,6 @@ I love solving problems and learning something new every day.
 
 
 
-### 🧠 Tech Stack & Tools  
 
 ### 🧠 Tech Stack & Tools  
 
@@ -68,4 +67,15 @@ I love solving problems and learning something new every day.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 </p>
+
+
+### 🧩 Libraries & Packages  
+<p align="center">
+  <img src="https://img.shields.io/badge/requests-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/python--dotenv-306998?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
 
