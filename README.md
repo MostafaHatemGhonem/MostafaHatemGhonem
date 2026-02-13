@@ -1,81 +1,60 @@
 # 👋 Hey, I'm Mostafa Hatem
 
-🚀 **Frontend Developer** | 🎓 Space Technology Student | 🇪🇬 Egypt  
-Building interactive, responsive, and beautiful web experiences with clean, modern code.
+🚀 **Frontend Developer (React)** | 🎓 **Space Technology Engineering Student** | 🇪🇬 Egypt  
+*Merging technical engineering principles with high-performance web development.*
 
 ---
 
-### 🧰 Tech Stack
-**Frontend:** HTML, CSS, Bootstrap, JavaScript, TypeScript, React  
-**Backend:** Python Flask  
-**Languages:** Python, Java, C++, C#  
-**Concepts:** OOP, Problem Solving  
-**Tools:** Git, GitHub  
+### 👨‍💻 About Me
+- [cite_start]🔭 I’m currently a **Frontend Developer Intern** at **NTI** and **ITI** (Remote). [cite: 27, 30, 32]
+- [cite_start]⚡ **Vice Frontend Lead** at **IEEE Beni-Suef**, mentoring junior developers. [cite: 38, 40]
+- [cite_start]🌌 Student at the **Faculty of Navigation Science and Space Technology**, Beni-Suef University. [cite: 56]
+- [cite_start]🏆 **NASA Space Apps Global Nominee** for Impact-X project. [cite: 48]
 
 ---
 
-### 💡 Featured Projects
+### 🛠 Tech Stack
+**Core Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### 🌎 [Impact-X](https://github.com/MostafaHatemGhonem/Impact-X)
-An interactive web app simulating asteroid impacts using NASA data.  
-🛰 Selected as a **Global Nominee** in the NASA Space Apps Challenge.
+**State Management & Tools:**
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-orange?style=for-the-badge)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-#### 🧩 [Browser Extensions Manager](https://github.com/MostafaHatemGhonem/browser-extensionsmanager)
-Frontend Mentor Challenge — Manage browser extensions easily.  
-🔗 [Live Demo](https://MostafaHatemGhonem.github.io/browser-extensionsmanager)
-
-#### 💳 [Digital Bank Landing Page](https://github.com/MostafaHatemGhonem/landing-page)
-Responsive landing page built with modern design principles.  
-🔗 [Live Demo](https://MostafaHatemGhonem.github.io/landing-page)
-
----
-
-### 🧠 About Me
-I’m passionate about **merging technology and creativity** —  
-whether I’m building smooth user interfaces or studying **space systems** 🚀  
-I love solving problems and learning something new every day.
+**Backend & Others:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
-### 📬 Connect With Me
-📧 **mostafahatemghonem@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/mostafa-hatem-7b87b432a)  
-💻 [Upwork Profile](https://www.upwork.com/freelancers/~01cdfd0d78920265a4?mp_source=share)  
-🌍 [Portfolio Website (coming soon)](#)
+### 🚀 Featured Projects
 
+#### 🗓️ [Event Registration System - IEEE](https://github.com/MostafaHatemGhonem)
+- [cite_start]Built a high-performance React/Vite SPA with **QR Code check-in** system. [cite: 44, 45]
+- [cite_start]Used **Zustand** for state and **Recharts** for data visualization. [cite: 46]
 
+#### ☄️ [Impact-X (NASA Global Nominee)](https://github.com/MostafaHatemGhonem/Impact-X)
+- [cite_start]Interactive web app simulating asteroid impacts using NASA datasets. [cite: 49, 50]
+- [cite_start]Integrated **Python (Flask)** with a **TypeScript** frontend. [cite: 50]
 
+#### ⚡ [ELECTRIC-XTRA](https://github.com/MostafaHatemGhonem)
+- [cite_start]Cyberpunk-style landing page with advanced CSS animations and React. [cite: 52]
 
+---
 
-### 🧠 Tech Stack & Tools  
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  
-  <!-- Frameworks & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=MostafaHatemGhonem&show_icons=true&theme=tokyonight" alt="Mostafa's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaHatemGhonem&layout=compact&theme=tokyonight" alt="Mostafa's Top Langs" />
 </p>
 
+---
 
-### 🧩 Libraries & Packages  
-<p align="center">
-  <img src="https://img.shields.io/badge/requests-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white" />
-  <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/python--dotenv-306998?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-hatem-7b87b432a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafahatemghonem@gmail.com)
