@@ -1,14 +1,14 @@
 # 👋 Hey, I'm Mostafa Hatem
 
 🚀 **Frontend Developer (React)** | 🎓 **Space Technology Engineering Student** | 🇪🇬 Egypt  
-[cite_start]*Frontend Developer with professional experience building scalable web applications using React, TypeScript, and modern state management tools.* [cite: 8]
+*Frontend Developer with professional experience building scalable web applications using React, TypeScript, and modern state management tools.* 
 
 ---
 
 ### 💼 Work & Leadership
-* [cite_start]🏗️ **Frontend React Intern** @ **Huma-volve**: Developing responsive UIs and commercial codebases. [cite: 23, 24]
-* [cite_start]🎓 **Frontend Intern** @ **NTI** & **ITI**: Intensive technical training in modern web standards. [cite: 27, 30]
-* [cite_start]🎖️ **Vice Frontend Lead** @ **IEEE Beni-Suef**: Mentoring developers and managing technical curricula. [cite: 38, 40]
+* 🏗️ **Frontend React Intern** @ **Huma-volve**: Developing responsive UIs and commercial codebases.
+* 🎓 **Frontend Intern** @ **NTI** & **ITI**: Intensive technical training in modern web standards. 
+* 🎖️ **Vice Frontend Lead** @ **IEEE Beni-Suef**: Mentoring developers and managing technical curricula.
 
 ---
 
@@ -56,17 +56,12 @@
 
 ### 💡 Featured Projects
 
-* 🛰️ **Impact-X**: NASA Space Apps Global Nominee. [cite_start]Visualized NASA datasets using **TypeScript** & **Flask**. [cite: 48, 50]
-* [cite_start]🎫 **IEEE Event System**: React/Vite SPA with **QR Code check-in** and **Zustand** state management. [cite: 43, 45, 46]
-* [cite_start]⚡ **ELECTRIC-XTRA**: Cyberpunk landing page with advanced CSS animations. [cite: 51, 52]
-
----
-
-### 📊 GitHub Stats
-![Mostafa's Stats](https://github-readme-stats.vercel.app/api?username=MostafaHatemGhonem&show_icons=true&theme=tokyonight)
+* 🛰️ **Impact-X**: NASA Space Apps Global Nominee. [cite_start]Visualized NASA datasets using **TypeScript** & **Flask**. 
+* 🎫 **IEEE Event System**: React/Vite SPA with **QR Code check-in** and **Zustand** state management.
+* ⚡ **ELECTRIC-XTRA**: Cyberpunk landing page with advanced CSS animations. 
 
 ---
 
 ### 📬 Connect With Me
-[cite_start][![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-hatem-7b87b432a) [cite: 6]
-[cite_start][![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafahatemghonem@gmail.com) [cite: 3]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-hatem-7b87b432a) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafahatemghonem@gmail.com) 
