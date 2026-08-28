@@ -1,156 +1,135 @@
+<div align="center">
+
 # 👋 Hi, I'm Mostafa Hatem
 
-### 🚀 Full Stack Developer | React • Next.js • Django
+### 🚀 Full Stack Developer (React · Next.js · Django) &nbsp;|&nbsp; 🛰️ Space Technology Engineering Student &nbsp;|&nbsp; 🇪🇬 Egypt
 
-### 🎓 Space Technology Engineering Student | 🇪🇬 Egypt
+I'm a detail-oriented Full Stack Developer specializing in **React**, **Next.js**, **TypeScript**, and **Django / Django REST Framework**, with a strong command of modern state management. I love building responsive, scalable, and visually engaging interfaces backed by robust, well-architected APIs — combining an engineering background in Space Technology with a passion for clean code and global hackathons.
 
-<p align="left">
-  <a href="https://mostafa-hatem.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1rMajWI0wcV04S6OE2FUQnFMgHmksCt2p/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/CV-View%20Resume-DC2626?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mostafa-hatem-7b87b432a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mostafahatemghonem@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mostafa-hatem.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-hatem-7b87b432a)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1rMajWI0wcV04S6OE2FUQnFMgHmksCt2p/view?usp=drive_link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafahatemghonem@gmail.com)
 
----
+</div>
 
-## 🧑‍💻 About Me
+<br>
 
-I'm a **Full Stack Developer** specializing in building scalable, responsive, and visually engaging web applications.
+### 💼 Experience & Leadership
 
-My primary stack includes **React, Next.js, TypeScript, and Django/Django REST Framework**, with a strong focus on clean architecture, modern state management, performance, and maintainable code.
-
-My engineering background in **Space Technology** gives me a systems-oriented approach to software development, while my experience in technical leadership and global hackathons has strengthened my ability to work collaboratively and solve complex problems.
-
-* 🔭 Currently working on scalable web applications and engineering projects
-* 🌱 Continuously learning modern frontend architecture, backend systems, and software engineering
-* 🧠 Interested in system design, performance optimization, APIs, and data visualization
-* 🛰️ Passionate about combining **Software Engineering × Space Technology**
-* 👨‍💻 Vice Head of Frontend Committee at **IEEE Beni-Suef Student Branch**
+- 🏗️ **Frontend Developer** @ **Huma-volve** (Remote) *(Jan 2026 – May 2026)* — Engineered responsive, highly maintainable UIs for commercial web applications within an agile team.
+- 🎖️ **Vice Head of Frontend Committee** @ **IEEE Beni-Suef Student Branch** *(Oct 2025 – Present)* — Co-directing the committee: planning technical curricula and mentoring junior developers.
+- 🎓 **Frontend Developer Intern** @ **National Telecommunication Institute (NTI)** *(Jan – Mar 2026)* — Intensive training in modern frontend workflows and industry-standard practices.
+- 🎓 **Web Track Trainee** @ **Information Technology Institute (ITI)** *(Jul – Aug 2025)* — 60-hour Web Track (HTML5, CSS3, JS, Bootstrap) with a **100%** evaluation score on final projects.
 
 ---
 
-## 💼 Experience
+### 🧰 Tech Stack & Tools
 
-### 🏗️ Frontend Developer — Huma-volve
+**🌐 Frontend**
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-**Jan 2026 – May 2026 | Remote**
+**🧠 State Management & Data Fetching**
+<p align="left">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-orange?style=for-the-badge" />
+</p>
 
-* Engineered responsive and maintainable interfaces for commercial web applications using **React**.
-* Worked within an agile development environment to deliver scalable software solutions.
-* Applied clean code practices and modern frontend architecture to improve maintainability and performance.
+**🎨 Styling & UI Libraries**
+<p align="left">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white" />
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
 
-### 🎖️ Vice Head of Frontend Committee — IEEE Beni-Suef Student Branch
+**⚙️ Tools & Validation**
+<p align="left">
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-**Oct 2025 – Present**
+**🚀 Backend & APIs**
+<p align="left">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
-* Co-directed the frontend committee and helped plan technical curricula.
-* Mentored junior developers in modern frontend technologies.
-* Managed community-driven software projects and practical training sessions.
-* Contributed to raising the technical and engineering standards of the frontend team.
+**📊 Data & Visualization**
+<p align="left">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge" />
+</p>
+
+**Also comfortable with:** CI/CD · Software Testing · System Scalability · Web Security · Data Structures & Algorithms
 
 ---
 
-# 🛠️ Tech Stack
+### 💡 Featured Projects
 
-### 🌐 Frontend
+**🛰️ Impact-X** — *NASA Space Apps Global Nominee* <!-- add live-demo / repo link --><br>
+Interactive, browser-based space simulation to visualize and navigate chaotic meteor storm data — a TypeScript frontend bridged to a Python/Flask backend, using Pandas & Matplotlib to process complex datasets in real time.<br>
+`TypeScript` `Python` `Flask` `Pandas` `Matplotlib`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,vite" />
-</p>
+**💰 Baseera** — *AI-Driven FinTech App* <!-- add live-demo / repo link --><br>
+A scalable fintech application focused on clean UI/UX and seamless real-time financial data visualization, with optimized rendering cycles for high performance.<br>
+`React.js` `TypeScript` `Tailwind CSS` `Zustand`
 
-### 🧠 State Management & Data Fetching
+**🎫 IEEE Event Registration System** <!-- add live-demo / repo link --><br>
+End-to-end event management system streamlining registration for hundreds of attendees, with HTML5 QR-code check-in and React Query-powered server-state caching.<br>
+`React` `TypeScript` `Zustand` `React Query` `Radix UI`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=redux" />
-  <img src="https://img.shields.io/badge/Zustand-443C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-</p>
+**⚡ ELECTRIC-XTRA** <!-- add live-demo / repo link --><br>
+Cyberpunk-themed landing page built with advanced CSS animations.<br>
+`React` `CSS`
 
-### 🎨 UI & Styling
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-</p>
-
-### ⚙️ Forms, Validation & Animation
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
-
-### 🚀 Backend & APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,cpp" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge" />
-</p>
-
-### 📊 Data & Visualization
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🔧 Tools & Engineering
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Engineering-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software_Testing-Engineering-111827?style=for-the-badge" />
-</p>
+**🌐 Portfolio & Blog** — [Live Preview ↗](https://mostafa-hatem.vercel.app)<br>
+Personal portfolio with scroll-driven animations, project showcases, and a markdown-powered blog section.<br>
+`React` `TypeScript` `Framer Motion` `React Router`
 
 ---
 
+### 🎓 Education
 
-
-# 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MostafaHatemGhonem&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaHatemGhonem&layout=compact&hide_border=true" height="170" />
-</p>
+**Bachelor of Science in Navigation and Space Technology**
+Faculty of Navigation and Space Technology, Beni-Suef University, Egypt *(2023 – Present)*
+Relevant coursework: Data Structures & Algorithms, Object-Oriented Programming, Software Engineering Principles.
 
 ---
 
-# 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://mostafa-hatem.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-111827?style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/mostafa-hatem-7b87b432a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mostafahatemghonem@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/file/d/1rMajWI0wcV04S6OE2FUQnFMgHmksCt2p/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/📄_Resume-DC2626?style=for-the-badge" />
-  </a>
-</p>
+### 🌍 Languages
+Arabic (Native) &nbsp;·&nbsp; English (Professional Working Proficiency)
 
 ---
 
-<p align="center">
-  <i>Building scalable software. Exploring space technology. Solving engineering problems.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  ⭐ If you find my work interesting, feel free to explore my repositories.
-</p>
+### 📬 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mostafa-hatem.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-hatem-7b87b432a)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1rMajWI0wcV04S6OE2FUQnFMgHmksCt2p/view?usp=drive_link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafahatemghonem@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>⭐ Thanks for stopping by!</sub>
+</div>
