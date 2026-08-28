@@ -58,26 +58,6 @@ My engineering background in **Space Technology** gives me a systems-oriented ap
 
 ---
 
-## 🎓 Training & Internships
-
-### 📡 Frontend Developer Intern — National Telecommunication Institute (NTI)
-
-**Jan 2026 – Mar 2026**
-
-* Completed intensive frontend development training.
-* Built responsive web applications following industry-standard development practices.
-* Focused on clean architecture, performance, and modern development workflows.
-
-### 🌐 Web Track Trainee — Information Technology Institute (ITI)
-
-**Jul 2025 – Aug 2025**
-
-* Completed a rigorous **60-hour Web Track**.
-* Covered **HTML5, CSS3, JavaScript, and Bootstrap**.
-* Achieved a **100% evaluation score** across final practical projects and technical assessments.
-
----
-
 # 🛠️ Tech Stack
 
 ### 🌐 Frontend
@@ -137,97 +117,7 @@ My engineering background in **Space Technology** gives me a systems-oriented ap
 
 ---
 
-# 🚀 Featured Projects
 
-## 🛰️ Impact-X
-
-### NASA Space Apps Challenge — Global Nominee
-
-**TypeScript • Python • Flask • Pandas • Matplotlib**
-
-An interactive browser-based space simulation designed to visualize and navigate complex meteor storm datasets.
-
-* 🌎 Globally recognized as a **NASA Space Apps Global Nominee**
-* 🛰️ Interactive space-data visualization
-* 🐍 Python/Flask backend
-* 📊 Pandas & Matplotlib for data processing and visualization
-
----
-
-## 💳 Baseera — AI-Driven FinTech Application
-
-**React • TypeScript • Tailwind CSS • Zustand**
-
-A scalable FinTech application focused on clean UI/UX, financial data visualization, and efficient state management.
-
-* 📈 Financial data visualization
-* ⚡ Optimized rendering and application performance
-* 🧠 Modern client-side state management
-* 🎨 Responsive and scalable UI architecture
-
----
-
-## 🎫 IEEE Event Registration System
-
-**React • TypeScript • Zustand • React Query • Radix UI**
-
-A comprehensive event management and registration platform designed to streamline attendee registration and event check-in.
-
-* 📝 Multi-step registration workflow
-* 📱 HTML5 QR Code scanning
-* 🎟️ Hardware-to-web check-in workflow
-* ⚡ React Query for server-state management and caching
-* 👥 Designed to support hundreds of attendees
-
----
-
-## 🌐 Portfolio & Blog
-
-**React • TypeScript • Framer Motion • React Router • Hugeicons**
-
-My personal portfolio featuring a cinematic interface, scroll-driven animations, project showcases, and a markdown-powered blog.
-
-🔗 **[Visit Portfolio](https://mostafa-hatem.vercel.app)**
-
----
-
-# 🎓 Education
-
-### Bachelor of Science in Navigation and Space Technology
-
-**Faculty of Navigation and Space Technology — Beni-Suef University, Egypt**
-
-**2023 – Present**
-
-Relevant Coursework:
-
-* 📚 Data Structures & Algorithms
-* 🧩 Object-Oriented Programming
-* 🏗️ Software Engineering Principles
-
----
-
-# 🛰️ Engineering Perspective
-
-Coming from a **Space Technology Engineering** background, I approach software development with a systems-engineering mindset.
-
-I'm particularly interested in the intersection of:
-
-```text
-Software Engineering
-        +
-Data & Visualization
-        +
-Artificial Intelligence
-        +
-Space Technology
-        ↓
-Engineering Solutions
-```
-
-My long-term goal is to build software systems that are not only visually polished, but also **scalable, reliable, and technically well-architected**.
-
----
 
 # 📈 GitHub Stats
 
