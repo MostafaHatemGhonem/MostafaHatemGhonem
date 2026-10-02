@@ -12,7 +12,7 @@ I'm a detail-oriented Full Stack Developer specializing in **React**, **Next.js*
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafahatemghonem@gmail.com)
 
 ### 🤝 Organizations
-[![Infinity Explorers](https://img.shields.io/badge/Infinity_Explorers-0B132B?style=for-the-badge&logo=spacex&logoColor=white)](https://www.linkedin.com/company/infinity-explorers)
+[![Infinity Explorers]([https://img.shields.io/badge/Infinity_Explorers-0B132B?style=for-the-badge&logo=spacex&logoColor=white)](https://www.linkedin.com/company/infinity-explorers](https://avatars.githubusercontent.com/u/211696129?s=200&v=4))
 [![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org)
 
 </div>
