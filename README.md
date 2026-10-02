@@ -12,7 +12,8 @@ I'm a detail-oriented Full Stack Developer specializing in **React**, **Next.js*
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafahatemghonem@gmail.com)
 
 ### 🤝 Organizations
-[Infinity Explorers](https://www.linkedin.com/company/infinity-explorers) &nbsp;|&nbsp; [IEEE](https://www.ieee.org)
+[![Infinity Explorers](https://img.shields.io/badge/Infinity_Explorers-0B132B?style=for-the-badge&logo=spacex&logoColor=white)](https://www.linkedin.com/company/infinity-explorers)
+[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org)
 
 </div>
 
