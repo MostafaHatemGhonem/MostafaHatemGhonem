@@ -69,13 +69,6 @@ I'm a detail-oriented Full Stack Developer specializing in **React**, **Next.js*
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-**📊 Data & Visualization**
-<p align="left">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge" />
-</p>
-
 **Also comfortable with:** CI/CD · Software Testing · System Scalability · Web Security · Data Structures & Algorithms
 
 ---
