@@ -15,7 +15,9 @@ I'm a detail-oriented Full Stack Developer specializing in **React**, **Next.js*
 <a href="https://www.linkedin.com/company/infinity-explorers">
   <img src="https://avatars.githubusercontent.com/u/211696129?s=200&v=4" alt="Infinity Explorers" height="28" />
 </a>
-[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org)
+<a href="https://www.ieee.org">
+  <img src="https://avatars.githubusercontent.com/u/204194636?s=200&v=4" alt="IEEE" height="28" />
+</a>
 
 </div>
 
