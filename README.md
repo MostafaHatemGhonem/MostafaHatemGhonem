@@ -13,10 +13,10 @@ I'm a detail-oriented Full Stack Developer specializing in **React**, **Next.js*
 
 ### 🤝 Organizations
 <a href="https://www.linkedin.com/company/infinity-explorers">
-  <img src="https://avatars.githubusercontent.com/u/211696129?s=200&v=4" alt="Infinity Explorers" height="35" />
+  <img src="https://avatars.githubusercontent.com/u/211696129?s=200&v=4" alt="Infinity Explorers" height="50" />
 </a>
 <a href="https://www.ieee.org">
-  <img src="https://avatars.githubusercontent.com/u/204194636?s=200&v=4" alt="IEEE" height="35" />
+  <img src="https://avatars.githubusercontent.com/u/204194636?s=200&v=4" alt="IEEE" height="50" />
 </a>
 
 </div>
