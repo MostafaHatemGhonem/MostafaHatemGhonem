@@ -25,10 +25,27 @@ I'm a detail-oriented Full Stack Developer specializing in **React**, **Next.js*
 
 ### 💼 Experience & Leadership
 
-- 🏗️ **Frontend Developer** @ **Huma-volve** (Remote) *(Jan 2026 – May 2026)* — Engineered responsive, highly maintainable UIs for commercial web applications within an agile team.
-- 🎖️ **Vice Head of Frontend Committee** @ **IEEE Beni-Suef Student Branch** *(Oct 2025 – Present)* — Co-directing the committee: planning technical curricula and mentoring junior developers.
-- 🎓 **Frontend Developer Intern** @ **National Telecommunication Institute (NTI)** *(Jan – Mar 2026)* — Intensive training in modern frontend workflows and industry-standard practices.
-- 🎓 **Web Track Trainee** @ **Information Technology Institute (ITI)** *(Jul – Aug 2025)* — 60-hour Web Track (HTML5, CSS3, JS, Bootstrap) with a **100%** evaluation score on final projects.
+- 🎖️ **Frontend Engineer** @ **GDG on Campus CIC** *(Oct 2026 – persent)* — Serve as an instructor for GDG on Campus CIC members, delivering hands-on sessions and teaching modern frontend
+development with React and TypeScript.
+Plan learning content, guide members through practical projects, and mentor them in clean code practices and modern web
+technologies.
+
+- 🏗️ **Frontend Developer** @ **Huma-volve** (Remote) *(Jan 2026 – May 2026)* — 
+Engineered responsive and highly maintainable user interfaces for commercial web applications using React and modern
+frontend architectures.
+Collaborated within an agile team environment to deliver scalable software solutions, ensuring clean code practices and optimal
+performance.
+
+- 🎖️ **Vice Head of Frontend Committee** @ **IEEE Beni-Suef Student Branch** *(Oct 2025 – oct 2026)* — Co-directed the frontend committee by planning technical curricula and mentoring junior developers in modern web
+technologies.
+Managed community-driven projects and organized hands-on training sessions to elevate the engineering standards of the
+student branch.
+
+- 🎓 **Frontend Developer Intern** @ **National Telecommunication Institute (NTI)** *(Jan – Mar 2026)* — Completed intensive technical training focused on modern frontend development workflows and industry-standard practices.
+Developed responsive web applications, ensuring clean code structure and optimal performance.
+
+- 🎓 **Web Track Trainee** @ **Information Technology Institute (ITI)** *(Jul – Aug 2025)* — Completed a rigorous 60-hour specialized Web Track covering HTML5, CSS3, JavaScript, and Bootstrap.
+Achieved a 100% evaluation score on final practical projects and technical assessments.
 
 ---
 
@@ -83,25 +100,60 @@ I'm a detail-oriented Full Stack Developer specializing in **React**, **Next.js*
 
 ### 💡 Featured Projects
 
-**🛰️ Impact-X** — *NASA Space Apps Global Nominee* <!-- add live-demo / repo link --><br>
-Interactive, browser-based space simulation to visualize and navigate chaotic meteor storm data — a TypeScript frontend bridged to a Python/Flask backend, using Pandas & Matplotlib to process complex datasets in real time.<br>
-`TypeScript` `Python` `Flask` `Pandas` `Matplotlib`
 
-**💰 Baseera** — *AI-Driven FinTech App* <!-- add live-demo / repo link --><br>
-A scalable fintech application focused on clean UI/UX and seamless real-time financial data visualization, with optimized rendering cycles for high performance.<br>
-`React.js` `TypeScript` `Tailwind CSS` `Zustand`
+**IEEE Management System & Web Portal** | [ Live Preview ](https://ieee-website-beta.vercel.app/) · [ GitHub ](https://github.com/IEEE-Beni-Suef/IEEE-website)  
+*React 19, TypeScript, React Router v7, TanStack Query, Redux Toolkit, Tailwind CSS, Docker*
+- Engineered a centralized management platform featuring multi-tier RBAC for branch operations (meetings, committees, articles, and attendance tracking).
+- Implemented resilient JWT authentication with automatic token refresh queuing via Axios interceptors.
+- Integrated an interactive AI chatbot via Gradio API alongside TanStack Query for optimal client-side caching.
+- Delivered strict type safety using TypeScript and Zod schema validations for all API contracts and forms.
 
-**🎫 IEEE Event Registration System** <!-- add live-demo / repo link --><br>
-End-to-end event management system streamlining registration for hundreds of attendees, with HTML5 QR-code check-in and React Query-powered server-state caching.<br>
-`React` `TypeScript` `Zustand` `React Query` `Radix UI`
+**🛰️ Impact-X** — *NASA Space Apps Global Nominee* | [ GitHub ](https://github.com/MostafaHatemGhonem/Impact-X)  
+* TypeScript · Python · Flask · Pandas · Matplotlib *
+- Developed an interactive, browser-based space simulation to visualize and navigate chaotic meteor storm data.
+- Bridged a high-performance TypeScript frontend to a Python/Flask backend, utilizing Pandas and Matplotlib to process complex datasets in real time.
 
-**⚡ ELECTRIC-XTRA** <!-- add live-demo / repo link --><br>
-Cyberpunk-themed landing page built with advanced CSS animations.<br>
-`React` `CSS`
+**💰 Baseera** — *AI-Driven FinTech App* | [ Live Preview ](https://baseera-kappa.vercel.app/) · [ GitHub ](https://github.com/MostafaHatemGhonem/Baseera)  
+* React.js · TypeScript · Tailwind CSS · Zustand *
+- Built a scalable fintech application focused on clean UI/UX and seamless real-time financial data visualization.
+- Optimized rendering cycles and state management to ensure high performance under heavy data loads.
 
-**🌐 Portfolio & Blog** — [Live Preview ↗](https://mostafa-hatem.vercel.app)<br>
-Personal portfolio with scroll-driven animations, project showcases, and a markdown-powered blog section.<br>
-`React` `TypeScript` `Framer Motion` `React Router`
+**🎫 IEEE Event Registration System** | [ Live Preview ](ieee-event-registration.vercel.app) · [ GitHub ](https://github.com/MostafaHatemGhonem/Ieee-event-registration)  
+* React · TypeScript · Zustand · React Query · Radix UI *
+- Delivered an end-to-end event management system streamlining registration for hundreds of attendees.
+- Integrated HTML5 QR-code check-in functionality and robust server-state caching using React Query.
+
+
+**🏛️ Infinity Explorers — Organizational Governance System**  | [ Live Preview ](infinity-explorers.vercel.app/) · [ GitHub ](https://github.com/MostafaHatemGhonem/warning-system)  
+
+A full-stack governance and disciplinary management platform built to manage organizational warnings, committee appeals, project accountability, and member records.
+
+- Developed a policy-enforcement state machine supporting **Warning 1, Warning 2, and Final Warning** levels.
+- Implemented time-bound warning validity periods of **30 and 60 days**.
+- Added temporary **48-hour suspension** workflows.
+- Supported independent tracking of project-level and global infractions.
+- Designed a structured appeals lifecycle with **Confirm, Reduce, Cancel, Improvement Plan, and Reinvestigate** resolutions.
+- Built immutable audit logging for complete decision traceability.
+- Implemented role-based access control for **Admin, HR, Committee, and Member** roles.
+- Integrated automated email notifications using **Resend** and **React Email**.
+- Added project tracking features for blockers, delayed milestones, meetings, and team rosters.
+
+**Tech Stack:** `Next.js` `React 19` `TypeScript` `MongoDB` `Mongoose` `Tailwind CSS` `Resend` `React Email`
+
+---
+
+### 🌐 Portfolio & Blog
+
+A personal portfolio and blog platform showcasing projects, technical experience, and written content through a modern, animated interface.
+
+- Created scroll-driven animations for an engaging browsing experience.
+- Added comprehensive project showcases.
+- Integrated a markdown-powered blog.
+- Built responsive layouts for desktop and mobile devices.
+
+**Live Preview:** [mostafa-hatem.vercel.app](https://mostafa-hatem.tech/)
+
+**Tech Stack:** `React` `TypeScript` `Framer Motion` `React Router`
 
 ---
 
