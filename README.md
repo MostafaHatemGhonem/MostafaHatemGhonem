@@ -101,6 +101,25 @@ Achieved a 100% evaluation score on final practical projects and technical asses
 ### 💡 Featured Projects
 
 
+**🏛️ Infinity Explorers — Organizational Governance System**  | [ Live Preview ](https://infinity-explorers.vercel.app) · [ GitHub ](https://github.com/MostafaHatemGhonem/warning-system)  
+
+A full-stack governance and disciplinary management platform built to manage organizational warnings, committee appeals, project accountability, and member records.
+
+- Developed a policy-enforcement state machine supporting **Warning 1, Warning 2, and Final Warning** levels.
+- Implemented time-bound warning validity periods of **30 and 60 days**.
+- Added temporary **48-hour suspension** workflows.
+- Supported independent tracking of project-level and global infractions.
+- Designed a structured appeals lifecycle with **Confirm, Reduce, Cancel, Improvement Plan, and Reinvestigate** resolutions.
+- Built immutable audit logging for complete decision traceability.
+- Implemented role-based access control for **Admin, HR, Committee, and Member** roles.
+- Integrated automated email notifications using **Resend** and **React Email**.
+- Added project tracking features for blockers, delayed milestones, meetings, and team rosters.
+
+**Tech Stack:** `Next.js` `React 19` `TypeScript` `MongoDB` `Mongoose` `Tailwind CSS` `Resend` `React Email`
+
+---
+
+
 **IEEE Management System & Web Portal** | [ Live Preview ](https://ieee-website-beta.vercel.app/) · [ GitHub ](https://github.com/IEEE-Beni-Suef/IEEE-website)  
 *React 19, TypeScript, React Router v7, TanStack Query, Redux Toolkit, Tailwind CSS, Docker*
 - Engineered a centralized management platform featuring multi-tier RBAC for branch operations (meetings, committees, articles, and attendance tracking).
@@ -123,26 +142,7 @@ Achieved a 100% evaluation score on final practical projects and technical asses
 - Delivered an end-to-end event management system streamlining registration for hundreds of attendees.
 - Integrated HTML5 QR-code check-in functionality and robust server-state caching using React Query.
 
-
-**🏛️ Infinity Explorers — Organizational Governance System**  | [ Live Preview ](infinity-explorers.vercel.app/) · [ GitHub ](https://github.com/MostafaHatemGhonem/warning-system)  
-
-A full-stack governance and disciplinary management platform built to manage organizational warnings, committee appeals, project accountability, and member records.
-
-- Developed a policy-enforcement state machine supporting **Warning 1, Warning 2, and Final Warning** levels.
-- Implemented time-bound warning validity periods of **30 and 60 days**.
-- Added temporary **48-hour suspension** workflows.
-- Supported independent tracking of project-level and global infractions.
-- Designed a structured appeals lifecycle with **Confirm, Reduce, Cancel, Improvement Plan, and Reinvestigate** resolutions.
-- Built immutable audit logging for complete decision traceability.
-- Implemented role-based access control for **Admin, HR, Committee, and Member** roles.
-- Integrated automated email notifications using **Resend** and **React Email**.
-- Added project tracking features for blockers, delayed milestones, meetings, and team rosters.
-
-**Tech Stack:** `Next.js` `React 19` `TypeScript` `MongoDB` `Mongoose` `Tailwind CSS` `Resend` `React Email`
-
----
-
-### 🌐 Portfolio & Blog
+**🌐 Portfolio & Blog** | [ Live Preview ](https:/mostafa-hatem.tech)
 
 A personal portfolio and blog platform showcasing projects, technical experience, and written content through a modern, animated interface.
 
@@ -151,7 +151,6 @@ A personal portfolio and blog platform showcasing projects, technical experience
 - Integrated a markdown-powered blog.
 - Built responsive layouts for desktop and mobile devices.
 
-**Live Preview:** [mostafa-hatem.vercel.app](https://mostafa-hatem.tech/)
 
 **Tech Stack:** `React` `TypeScript` `Framer Motion` `React Router`
 
