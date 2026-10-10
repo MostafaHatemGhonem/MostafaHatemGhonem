@@ -137,12 +137,12 @@ A full-stack governance and disciplinary management platform built to manage org
 - Built a scalable fintech application focused on clean UI/UX and seamless real-time financial data visualization.
 - Optimized rendering cycles and state management to ensure high performance under heavy data loads.
 
-**🎫 IEEE Event Registration System** | [ Live Preview ](ieee-event-registration.vercel.app) · [ GitHub ](https://github.com/MostafaHatemGhonem/Ieee-event-registration)  
+**🎫 IEEE Event Registration System** | [ Live Preview ](https://ieee-event-registration.vercel.app) · [ GitHub ](https://github.com/MostafaHatemGhonem/Ieee-event-registration)  
 * React · TypeScript · Zustand · React Query · Radix UI *
 - Delivered an end-to-end event management system streamlining registration for hundreds of attendees.
 - Integrated HTML5 QR-code check-in functionality and robust server-state caching using React Query.
 
-**🌐 Portfolio & Blog** | [ Live Preview ](https:/mostafa-hatem.tech)
+**🌐 Portfolio & Blog** | [ Live Preview ](https://mostafa-hatem.tech)
 
 A personal portfolio and blog platform showcasing projects, technical experience, and written content through a modern, animated interface.
 
