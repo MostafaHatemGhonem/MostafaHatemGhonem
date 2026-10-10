@@ -6,9 +6,9 @@
 
 I'm a detail-oriented Full Stack Developer specializing in **React**, **Next.js**, **TypeScript**, and **Django / Django REST Framework**, with a strong command of modern state management. I love building responsive, scalable, and visually engaging interfaces backed by robust, well-architected APIs — combining an engineering background in Space Technology with a passion for clean code and global hackathons.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mostafa-hatem.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mostafa-hatem.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mostafa-hatem-7b87b432a)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1rMajWI0wcV04S6OE2FUQnFMgHmksCt2p/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1YiQFbCphzlgQdmM5cwILw-9Q4zAlMHnZ)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mostafahatemghonem@gmail.com)
 
 ### 🤝 Organizations
